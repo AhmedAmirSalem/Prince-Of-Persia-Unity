@@ -1,0 +1,38 @@
+newmtl def_surf_mat
+Kd 0.820000 0.830000 0.870000
+Ks 0.150000 0.150000 0.150000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl base
+Kd 0.478431 0.349020 0.349020
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl legs
+Kd 0.411765 0.266667 0.282353
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl glass
+Kd 0.820000 0.830000 0.870000
+Ks 0.854902 0.854902 0.854902
+Ns 100.000000
+d 0.590361
+illum 2
+map_Kd c:\documents and settings\owner\my documents\daz 3d\hexagon\misc\hourglass000.png
+newmtl sand
+Kd 0.611765 0.623529 0.462745
+Ks 0.384314 0.384314 0.384314
+Ns 100.000000
+d 1.000000
+illum 2
+newmtl material47
+Kd 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ns 100.000000
+d 1.000000
+illum 2
+map_Kd c:\documents and settings\owner\my documents\daz 3d\hexagon\misc\hourglass001.png

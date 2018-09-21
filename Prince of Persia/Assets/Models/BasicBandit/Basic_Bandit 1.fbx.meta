@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: ce759009c80930647a8cc87d518fa945
+timeCreated: 1495748942
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BasicBandit_Body
+    100004: BasicBandit_Clothes
+    100006: BasicBandit_Eye
+    100008: BasicBandit_Mask
+    100010: //RootNode
+    100012: Chest
+    100014: Eye.L
+    100016: Eye.L_end
+    100018: Eye.R
+    100020: Eye.R_end
+    100022: Foot.L
+    100024: Foot.R
+    100026: Hand.L
+    100028: Hand.R
+    100030: Head
+    100032: Hips
+    100034: IndexDistal.L
+    100036: IndexDistal.L_end
+    100038: IndexDistal.R
+    100040: IndexDistal.R_end
+    100042: IndexMiddle.L
+    100044: IndexMiddle.R
+    100046: IndexProximal.L
+    100048: IndexProximal.R
+    100050: Jaw
+    100052: Jaw_end
+    100054: LittleDistal.L
+    100056: LittleDistal.L_end
+    100058: LittleDistal.R
+    100060: LittleDistal.R_end
+    100062: LittleMiddle.L
+    100064: LittleMiddle.R
+    100066: LittleProximal.L
+    100068: LittleProximal.R
+    100070: LowerArm.L
+    100072: LowerArm.R
+    100074: LowerLeg.L
+    100076: LowerLeg.R
+    100078: MiddleDistal.L
+    100080: MiddleDistal.L_end
+    100082: MiddleDistal.R
+    100084: MiddleDistal.R_end
+    100086: MiddleMiddle.L
+    100088: MiddleMiddle.R
+    100090: MiddleProximal.L
+    100092: MiddleProximal.R
+    100094: Neck
+    100096: RingDistal.L
+    100098: RingDistal.L_end
+    100100: RingDistal.R
+    100102: RingDistal.R_end
+    100104: RingMiddle.L
+    100106: RingMiddle.R
+    100108: RingProximal.L
+    100110: RingProximal.R
+    100112: Shoulder.L
+    100114: Shoulder.R
+    100116: Spine
+    100118: ThumbDistal.L
+    100120: ThumbDistal.L_end
+    100122: ThumbDistal.R
+    100124: ThumbDistal.R_end
+    100126: ThumbMiddle.L
+    100128: ThumbMiddle.R
+    100130: ThumbProximal.L
+    100132: ThumbProximal.R
+    100134: Toe.L
+    100136: Toe.L_end
+    100138: Toe.R
+    100140: Toe.R_end
+    100142: UpperArm.L
+    100144: UpperArm.R
+    100146: UpperLeg.L
+    100148: UpperLeg.R
+    400000: Armature
+    400002: BasicBandit_Body
+    400004: BasicBandit_Clothes
+    400006: BasicBandit_Eye
+    400008: BasicBandit_Mask
+    400010: //RootNode
+    400012: Chest
+    400014: Eye.L
+    400016: Eye.L_end
+    400018: Eye.R
+    400020: Eye.R_end
+    400022: Foot.L
+    400024: Foot.R
+    400026: Hand.L
+    400028: Hand.R
+    400030: Head
+    400032: Hips
+    400034: IndexDistal.L
+    400036: IndexDistal.L_end
+    400038: IndexDistal.R
+    400040: IndexDistal.R_end
+    400042: IndexMiddle.L
+    400044: IndexMiddle.R
+    400046: IndexProximal.L
+    400048: IndexProximal.R
+    400050: Jaw
+    400052: Jaw_end
+    400054: LittleDistal.L
+    400056: LittleDistal.L_end
+    400058: LittleDistal.R
+    400060: LittleDistal.R_end
+    400062: LittleMiddle.L
+    400064: LittleMiddle.R
+    400066: LittleProximal.L
+    400068: LittleProximal.R
+    400070: LowerArm.L
+    400072: LowerArm.R
+    400074: LowerLeg.L
+    400076: LowerLeg.R
+    400078: MiddleDistal.L
+    400080: MiddleDistal.L_end
+    400082: MiddleDistal.R
+    400084: MiddleDistal.R_end
+    400086: MiddleMiddle.L
+    400088: MiddleMiddle.R
+    400090: MiddleProximal.L
+    400092: MiddleProximal.R
+    400094: Neck
+    400096: RingDistal.L
+    400098: RingDistal.L_end
+    400100: RingDistal.R
+    400102: RingDistal.R_end
+    400104: RingMiddle.L
+    400106: RingMiddle.R
+    400108: RingProximal.L
+    400110: RingProximal.R
+    400112: Shoulder.L
+    400114: Shoulder.R
+    400116: Spine
+    400118: ThumbDistal.L
+    400120: ThumbDistal.L_end
+    400122: ThumbDistal.R
+    400124: ThumbDistal.R_end
+    400126: ThumbMiddle.L
+    400128: ThumbMiddle.R
+    400130: ThumbProximal.L
+    400132: ThumbProximal.R
+    400134: Toe.L
+    400136: Toe.L_end
+    400138: Toe.R
+    400140: Toe.R_end
+    400142: UpperArm.L
+    400144: UpperArm.R
+    400146: UpperLeg.L
+    400148: UpperLeg.R
+    4300000: BasicBandit_Mask
+    4300002: BasicBandit_Eye
+    4300004: BasicBandit_Body
+    4300006: BasicBandit_Clothes
+    9500000: //RootNode
+    13700000: BasicBandit_Body
+    13700002: BasicBandit_Clothes
+    13700004: BasicBandit_Eye
+    13700006: BasicBandit_Mask
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
